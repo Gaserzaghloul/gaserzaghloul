@@ -70,14 +70,6 @@ Focused on Software Development, Artificial Intelligence, and Web Technologies.
 - 💼 [LinkedIn](https://www.linkedin.com) <!-- replace with your actual LinkedIn -->
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaserzaghlol&show_icons=true&theme=radical" alt="Gaser's GitHub stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaserzaghlol&theme=radical" alt="GitHub Streak" width="45%" />
-</p>
-
----
 
 <p align="center">
   ⚡ Always pushing boundaries with code and curiosity!
