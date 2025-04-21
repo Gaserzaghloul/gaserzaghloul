@@ -8,7 +8,7 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
 
 🎓 **Software Engineering Student**  
 Ain Shams University (Oct 2021 – June 2026)  
-Focused on Software Development, Artificial Intelligence, and Web Technologies.
+Focused on Software Engineering , Artificial Intelligence, and Web Technologies.
 
 ---
 
