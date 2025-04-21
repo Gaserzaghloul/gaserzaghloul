@@ -4,14 +4,6 @@
 Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning & Deep Learning 
 </p>
 
----
-
-🎓 **Software Engineering Student**  
-Ain Shams University (Oct 2021 – June 2026)  
-Focused on Software Engineering , Artificial Intelligence, and Web Technologies.
-
----
-
 ## 🧠 About Me
 
 - 👨‍💻 Experienced in **AI**, **Computer Vision**, **Machine Learning**, and **Software Engineering**
