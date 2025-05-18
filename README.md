@@ -7,8 +7,6 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
 ## 🧠 About Me
 
 - 👨‍💻 I’m currently learning **AI**, **Computer Vision**, **Machine Learning**, **Deep Learning** and **Software Engineering**
-- 🧪 Built projects using **CNNs, RNNs**, and other ML techniques
-- 🌐 Passionate about full-stack development & building meaningful products
 - 💼 Check out my [CV here](https://drive.google.com/drive/folders/1M_yy9yjjR3gWq3Y65crUA7KiMAk5KWXv) <!-- Replace # with your CV link -->
 - 🚀 Always learning & exploring new technologies
 
