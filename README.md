@@ -7,7 +7,7 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
 ## About Me
 
 - I’m currently learning **AI**, **Computer Vision**, **Machine Learning**, **Deep Learning** and **Software Engineering**
-- Check out[My CV](https://drive.google.com/drive/folders/1M_yy9yjjR3gWq3Y65crUA7KiMAk5KWXv)
+- Check out [My CV](https://drive.google.com/drive/folders/1M_yy9yjjR3gWq3Y65crUA7KiMAk5KWXv)
 - [My Portfolio](https://Gaserzaghloul.github.io/gaserzaghloul/)
 - Always learning & exploring new technologies
 
