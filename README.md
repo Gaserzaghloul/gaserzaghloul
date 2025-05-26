@@ -4,17 +4,18 @@
 Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning & Deep Learning 
 </p>
 
-## 🧠 About Me
+## About Me
 
-- 👨‍💻 I’m currently learning **AI**, **Computer Vision**, **Machine Learning**, **Deep Learning** and **Software Engineering**
-- 💼 Check out my [CV here](https://drive.google.com/drive/folders/1M_yy9yjjR3gWq3Y65crUA7KiMAk5KWXv) <!-- Replace # with your CV link -->
-- 🚀 Always learning & exploring new technologies
+- I’m currently learning **AI**, **Computer Vision**, **Machine Learning**, **Deep Learning** and **Software Engineering**
+- Check out my [CV here](https://drive.google.com/drive/folders/1M_yy9yjjR3gWq3Y65crUA7KiMAk5KWXv)
+- Portfolio [ here](https://Gaserzaghloul.github.io/gaserzaghloul/)
+- Always learning & exploring new technologies
 
 ---
 
-## 💡 Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 👨‍💻 Languages
+###  Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -23,7 +24,7 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
-### 🧠 AI / ML / DL
+###  AI / ML / DL
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
@@ -32,7 +33,7 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 </p>
 
-### 🌐 Frameworks
+###  Frameworks
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -42,7 +43,7 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Testing
+###  Tools & Testing
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
@@ -54,10 +55,10 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
 
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 
-- 📧 Email: [gaser.zaghlol1@gmail.com](mailto:gaser.zaghlol1@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com) <!-- replace with your actual LinkedIn -->
+- Email: [gaser.zaghlol1@gmail.com](mailto:gaser.zaghlol1@gmail.com)
+-  [LinkedIn](https://www.linkedin.com) <!-- replace with your actual LinkedIn -->
 ---
 
 
