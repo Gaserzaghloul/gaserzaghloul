@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="280" alt="circuit animation"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="280" alt="glowing code"/>
 </p>
+
 
 
 
