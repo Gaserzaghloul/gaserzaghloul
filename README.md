@@ -7,9 +7,8 @@
 </p> 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="280" alt="neural network"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="280" alt="gradient wave"/>
 </p>
-
 
 
 
