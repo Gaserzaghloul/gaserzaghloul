@@ -7,8 +7,9 @@
 </p> 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="terminal coding"/>
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="280" alt="neural network"/>
 </p>
+
 
 
 
