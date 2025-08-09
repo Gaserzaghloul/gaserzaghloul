@@ -54,13 +54,14 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
 </p>
 
 ------
+## 📌 Featured Projects  
 
-## GitHub Analytics  
+- **[Attendance System using Face Recognition](#)** – Real-time face detection and recognition for automated attendance tracking  
+- **[Uber Fare Prediction Model](#)** – Machine learning model predicting ride fares with high accuracy  
+- **[CNN Image Classifier](#)** – Deep learning-based image classification with TensorFlow & Keras  
+- **[Distributed Computing RPC with Redis](#)** – Remote Procedure Call system implemented across multiple VMs  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaserzaghloul&show_icons=true&theme=default" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaserzaghloul&layout=compact&theme=default"/>
-</p>
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=150&section=footer" />
