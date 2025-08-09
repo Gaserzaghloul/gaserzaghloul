@@ -7,8 +7,9 @@
 </p> 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="data flow animation"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="280" alt="minimal coding"/>
 </p>
+
 
 
 ##  About Me
