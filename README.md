@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="280" alt="glowing code"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="280" alt="flowing data"/>
 </p>
-
 
 
 
