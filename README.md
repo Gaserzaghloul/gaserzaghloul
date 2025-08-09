@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UYpH2nUrx3fFjyYeNa/giphy.gif" width="280" alt="AI data stream"/>
+  <img src="https://media.giphy.com/media/your-selected-image.gif" width="280" alt="goal celebration"/>
 </p>
 
 
