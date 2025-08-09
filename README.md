@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="330" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding gif"/>
 </p>
 
 
@@ -13,7 +13,6 @@
 -  Currently diving deep into **AI**, **Computer Vision**, **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, **Generative Adversarial Networks (GANs)**, and **Software Engineering**
 -  [**My CV**](https://drive.google.com/drive/folders/1M_yy9yjjR3gWq3Y65crUA7KiMAk5KWXv)
 -  [**My Portfolio**](https://gaserzaghloul.github.io/gaserzaghloul/)
--  Always curious & pushing boundaries with code and creativity
 
 ---
 
@@ -71,5 +70,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200"/>
   <br>
-  <b>Keep learning, keep building, keep growing 💡</b>
+  <b>Keep learning, keep building, keep growing ! </b>
 </p>
