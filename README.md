@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XcA8krYsrEAYXKf4UQ/giphy.gif" width="280" alt="neural network"/>
+  <img src="https://media.giphy.com/media/UYpH2nUrx3fFjyYeNa/giphy.gif" width="280" alt="AI data stream"/>
 </p>
-
 
 
 
