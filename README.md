@@ -53,7 +53,19 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 </p>
 
+------
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,opencv,tensorflow,pytorch,docker,aws,hadoop,linux,git" />
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=150&section=footer" />
+</p>
 
 ##  Get in Touch
 
