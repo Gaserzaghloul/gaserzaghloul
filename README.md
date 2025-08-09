@@ -55,13 +55,12 @@ Aspiring Software Engineer | AI & Computer Vision Enthusiast | Machine Learning 
 
 ------
 
-## Tech Stack
+## GitHub Analytics  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,opencv,tensorflow,pytorch,docker,aws,hadoop,linux,git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaserzaghloul&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaserzaghloul&layout=compact&theme=default"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=150&section=footer" />
