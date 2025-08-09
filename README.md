@@ -7,8 +7,9 @@
 </p> 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" alt="matrix code"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280" alt="scrolling code"/>
 </p>
+
 
 
 
